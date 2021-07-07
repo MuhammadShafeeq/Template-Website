@@ -8,7 +8,9 @@ Doubts can be cleared by creating an issue and we will look into it.
 Yes.
 
 ## Who made this template?
-Muhammad Shafeeq
+Muhammad Shafeeq.
+
+
 Student / Aspiring Developer
 
 ## Contact Email
